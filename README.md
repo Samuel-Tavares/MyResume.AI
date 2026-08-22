@@ -15,6 +15,9 @@ Muitas vezes, precisamos extrair a essência de artigos, notícias ou documentos
 * **Front-end / Interface:** [Retool](https://retool.com/) (Plataforma Low-Code).
 * **Back-end / IA:** [Google Gemini API](https://deepmind.google/technologies/gemini/).
 
+## 📍 Objetivo
+* **Entender na prática como funciona uma plataforma Low Code**
+
 ## 🖥️ Imagens e demonstração
 
 <img width="1353" height="392" alt="Image" src="https://github.com/user-attachments/assets/a2fa7bad-eb88-40d2-aacd-0efc9c2a4e23" />
